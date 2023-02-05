@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.signin{
+    display:flex;
+    justify-content: flex-start;
+    font-size: 28px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.email{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 15px;
+    color:#626161;
+    font-size: 15px;
+    margin-top: 0px;
+
+
+}
+
+.forgot{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    font-size: 14px;
+    
+}
+
+.forgotpassword{
+    color:#0060c0
+}
+.password{
+    display:flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    
+}
+
+.pw{
+    color:#626161
+}
+
+.border{
+    border: 2px solid lightgray;
+    width: 400px;
+    height: 275px;
+    margin-top: 150px;
+    margin-left: 700px;
+    
+}
+
+.continue{
+    display:flex;
+    justify-content: center;
+    border: 1px solid black;
+    width:380px;
+    height:25px;
+    background-color: rgb(255, 199, 96);
+    margin-left: 10px;
+}
+
+.help{
+    color: #0060c0;
+    font-size: 15px;
+    margin-left: 35px;
+    
+
+    
+}
+
+.new{
+    color:gray;
+}
+
+.create{
+    display:flex;
+    justify-content: center;
+    width:380px;
+    height:25px;
+    margin-left: 10px;
+}
+
+.line{
+    width:2500px;
+    margin-left: -800px;
+}
+
+.conditions{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    margin-left: -30px;
+    color: #0060c0;
+
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    margin-left: -30px;
+    color: black
+}
+
+.logo{
+    margin-left: 150px;
+    margin-top: -100px;
+
+}
+
+.enterpw{
+    width: 375px;
+    height:25px;
+    margin-left: -8px;
+    margin-top:5px
+}
+
+.enteremail{
+    width: 375px;
+    height:25px;
+    margin-left:13px;
+    margin-top:10px
+}
